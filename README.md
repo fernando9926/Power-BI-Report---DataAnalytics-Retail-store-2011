@@ -11,3 +11,11 @@ We also identify different customer segments, each with unique characteristics a
 Use the following Link to see my Power BI Project:
 
 https://app.powerbi.com/groups/me/reports/080fb3f7-ef2b-46bd-b634-16dd6f5bff7e/ReportSection?experience=power-bi
+
+![image](https://github.com/fernando9926/Power-BI-Report---DataAnalytics-Retail-store-2011/assets/125222476/1cc6e2d3-6de6-4666-86dd-fb1a925525c7)
+
+![image](https://github.com/fernando9926/Power-BI-Report---DataAnalytics-Retail-store-2011/assets/125222476/7b18a940-dead-4a3c-b3f4-50af603274a8)
+
+![image](https://github.com/fernando9926/Power-BI-Report---DataAnalytics-Retail-store-2011/assets/125222476/66bef72e-5c1a-4f35-a9fd-5ffb54dca88c)
+
+
